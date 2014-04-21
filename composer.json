@@ -1,0 +1,47 @@
+{
+    "name": "dieze/dz-asset-module",
+    "description": "Module de résolution d'assets.",
+    "type": "library",
+    "keywords": [
+        "zf2",
+        "asset",
+        "css",
+        "js",
+        "style",
+        "script",
+        "image",
+        "resolver",
+        "résolution",
+        "library",
+        "module"
+    ],
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/dieze/DzAssetModule",
+    "authors": [
+        {
+            "name": "Desfourneaux Adrien (aka Dieze)",
+            "email": "dieze51@gmail.com",
+            "role": "Creator"
+        }
+    ],
+    "support": {
+        "email": "dieze51@gmail.com",
+        "issues": "https://github.com/dieze/DzAssetModule/issues",
+        "wiki": "https://github.com/dieze/DzAssetModule/wiki",
+        "source": "https://github.com/dieze/DzAssetModule"
+    },
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zend-eventmanager": "~2.1",
+        "zendframework/zend-modulemanager": "~2.1"
+    },
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "2.*",
+        "fabpot/php-cs-fixer": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "DzAssetModule": "src/"
+        }
+    }
+}

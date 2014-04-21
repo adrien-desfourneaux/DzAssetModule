@@ -1,0 +1,580 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"HTTP_IF",
+				"HTTP_IF_MODIFIED_SINCE"
+			],
+			[
+				"session_c",
+				"session_write_close"
+			],
+			[
+				"Http",
+				"HttpResponseSender"
+			],
+			[
+				"HTTP",
+				"HTTP_IF_NONE_MATCH"
+			],
+			[
+				"Last",
+				"Last-Modified"
+			],
+			[
+				"Send",
+				"SendResponseEvent"
+			],
+			[
+				"mime",
+				"mimeResolver"
+			],
+			[
+				"Strea",
+				"StreamResponse"
+			],
+			[
+				"Stre",
+				"StreamResponse"
+			],
+			[
+				"jq",
+				"jquery-ui"
+			],
+			[
+				"bootstrap",
+				"bootstrap-theme"
+			],
+			[
+				"DbW",
+				"DbWebHelperInterface"
+			],
+			[
+				"escape",
+				"escapeHtmlHelper"
+			],
+			[
+				"prepe",
+				"prependStylesheetsHelper"
+			],
+			[
+				"Ev",
+				"EventManagerAwareInterface"
+			],
+			[
+				"false",
+				"falseFormatMessage"
+			],
+			[
+				"beginDate",
+				"beginDateEmpty"
+			],
+			[
+				"displa",
+				"displayNameTooLong"
+			],
+			[
+				"DisplayName",
+				"DisplayNameTooLong"
+			],
+			[
+				"servic",
+				"serviceLocator"
+			],
+			[
+				"CLa",
+				"ClassMethods"
+			],
+			[
+				"ProjectS",
+				"ProjectServiceOptionsInterface"
+			],
+			[
+				"getProj",
+				"getProjectListHasDeleteAction"
+			],
+			[
+				"getList",
+				"getProjectListHasAddAction"
+			],
+			[
+				"ProjectCOn",
+				"ProjectControllerFactory"
+			],
+			[
+				"list",
+				"listViewModelClass"
+			],
+			[
+				"delee",
+				"deleteViewModelClass"
+			],
+			[
+				"DzP",
+				"DzProjectAddWidgetFactory"
+			],
+			[
+				"retree",
+				"retrieveMessages"
+			],
+			[
+				"Control",
+				"ControllerPluginProviderInterface"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 105.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 415.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/data/PhpApplication.index.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/AssetManager.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Cache/AssetCache.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Session/NamespaceHelper.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Session/SessionManager.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Session/SessionContainer.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Options/ModuleOptions.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/public/index.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Sender/PhpApplicationSender.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzUserModule/project/dzuser.sublime-project",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Resolver/FileResolver.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Sender/AssetSender.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Sender/StreamSender.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Asset.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Sender/NotModifiedSender.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Sender/SenderInterface.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/project/dzproject.sublime-project",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Module.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/README.md",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Factory/ModuleOptionsFactory.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Resolver/AssetResolver.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Resolver/MimeResolver.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/config/mime.types.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Sender/Sender.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Sanitizer/UriSanitizer.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Sanitizer/PathSanitizer.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzViewModule/README.md",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Resolver/AssetResolver.ph",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/vendor/zendframework/zendframework/library/Zend/ModuleManager/Feature/ServiceProviderInterface.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/public/dzproject.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/public/vendor/bootstrap/dist/css/bootstrap-theme.css",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/config/application.config.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/public/dzproject.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/init_autoloader.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzBaseModule/src/DzBaseModule/Module.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/composer.json",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzBaseModule/Module.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Module.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/config/module.config.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/vendor/zendframework/zendframework/library/Zend/Http/PhpEnvironment/Request.php",
+		"/private/etc/apache2/mime.types",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/config/dzasset.global.php.dist",
+		"/private/etc/apache2/magic",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule/Options.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/project/dzasset.sublime-project",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/InitTrigger.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/vendor/zendframework/zendframework/library/Zend/Mvc/Service/ServiceListenerFactory.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/vendor/zendframework/zendframework/library/Zend/ModuleManager/ModuleManager.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/vendor/zendframework/zendframework/library/Zend/Mvc/Application.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/vendor/zendframework/zendframework/library/Zend/Http/Response/Stream.php",
+		"/Users/adrien/Google Drive/Travail/Stages/2014 Sylpheo Saint-Quentin/bin/find-duplicates.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/public/bower.json",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/README.md",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/Gruntfile.js",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/View/Model/AddViewModel.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/public/js/datepicker.js",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzBaseModule/src/DzBaseModule/Controller/Plugin/FirePhp.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/bin/db.sh",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/bin/qa.sh",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/view/dz-project-module/project/add.phtml",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/view/layout/layout.phtml",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/.gitignore",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzBaseModule/composer.json",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzBaseModule/project/dzbase.sublime-project",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/package.json",
+		"/Users/adrien/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/View/Helper/AddWidget.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Controller/ProjectController.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/view/dz-project-module/project/test.phtml",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/public/test-assets.css",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/Module.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/composer.json",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/regexRename.sh",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/project/suivi-projet.sublime-project",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/View/Model/ListViewModel.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/public/css/dzproject.css",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/public/vendor/.gitignore",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/project/README.md",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/public/.bowerrc",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/project/bower.json",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Entity/ProjectMappedSuperclass.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Test/Helper/DbWebHelper.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/tests/_helpers/WebHelper.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Entity/Project.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzTaskModule/src/DzTaskModule/Test/Helper/DbWebHelperInterface.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Test/Helper/DbWebHelperInterface.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/tests/acceptance/ListAllProjectsCept.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/Vagrantfile",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/public/testpdo.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/composer.phar",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/public/img/dzproject/trash.png",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/composer.lock",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Factory/ProjectMapperFactory.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Hydrator/Factory/ProjectHydratorFactory.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/SuiviProjet/src/SuiviProjet/Hydrator/Factory/ProjectHydratorFactory.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/view/dz-project-module/project/list.phtml",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/qa.sh",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/View/Model/DeleteViewModel.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/view/dz-project-module/project/index.phtml",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/tests/acceptance/AddProjectCept.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/tests/acceptance/DeleteProjectCept.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Mapper/ProjectMapper.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Mapper/ProjectMapperInterface.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzTaskModule/src/DzTaskModule/View/Helper/DeleteWidget.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/LICENSE",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/phpmd.xml",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/View/Listing/Field.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/View/Listing/ProjectListing.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/View/Helper/Factory/AddWidgetFactory.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/View/Helper/Factory/DeleteWidgetFactory.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/View/Helper/Factory/ListWidgetFactory.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/View/Helper/DeleteWidget.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/View/Helper/ListWidget.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Controller/Factory/ProjectControllerFactory.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/InputFilter/Factory/AddInputFilterFactory.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/vendor/squizlabs/php_codesniffer/CodeSniffer/Standards/MySource/Sniffs/Channels/IncludeSystemSniff.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/InputFilter/AddInputFilter.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Message/Error/EndDateEmpty.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/view/error/index.phtml",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/view/dz-project-module/project/delete.phtml",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Message/Error/DisplayNameEmpty.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Message/Error/ProjectDeleteFailed.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Message/Error/ProjectNotFound.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Message/Error/ProjectsNotFound.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Message/Error/DisplayNameTooLong.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Message/Error/BeginDateEmpty.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/View/Helper/Factory/DzProjectListWidgetFactory.php",
+		"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Service/ProjectService.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule",
+			"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule/src/DzAssetModule",
+			"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzAssetModule",
+			"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/tests/acceptance",
+			"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule",
+			"http://www.opensource.org/licenses/mit-license.html  MIT License",
+			"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule",
+			"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzBaseModule",
+			"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule/src/DzProjectModule/Factory",
+			"/Users/adrien/Documents/Suivi-Projet/suivi-projet/module/DzProjectModule"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var_dump",
+			"NamespaceHelper",
+			"var_dump",
+			"this",
+			"$sessionManager->",
+			"SessionManager",
+			"session",
+			"getRoot",
+			"session",
+			"session_start",
+			"HttpResponse",
+			"HttpRequest",
+			"HTTP_IF_NONE_MATCH",
+			"findIndexFromUri",
+			"var_dump",
+			"SessionContainer",
+			"var_dump",
+			"->container",
+			"container",
+			"->container",
+			"session",
+			"$this->assets",
+			"var_dump",
+			"exit;",
+			"var_dump",
+			"SessionContainer",
+			"HttpResponseSender",
+			"ModuleManagerInterface",
+			"HttpRequest",
+			"EventInterface",
+			"Adrien",
+			"MIT",
+			"DzProjectModule",
+			"SessionContainer",
+			"SimpleStreamResponseSender",
+			"SendResponseEvent",
+			"HttpResponseSender",
+			"ModuleManagerInterface",
+			"StreamResponse",
+			"HttpResponse",
+			"HttpRequest",
+			"Location",
+			"ContentType",
+			"MimeResolver",
+			"AssetResolver",
+			"Session",
+			"DzProjectModule",
+			"EVENT_LOAD_MODULE",
+			"EVENT_LOAD_MODULES",
+			"img",
+			"datepicker",
+			"toArray",
+			"classmap",
+			"chmod",
+			"img",
+			"modernizr",
+			"setenviro",
+			"cdscriptpath",
+			"getForm",
+			"@return Project",
+			"@return ",
+			"haveAllDefaults",
+			"\n                        <li<?php if ($page == 'list-active') : ?> class=\"active\"<?php endif ?>>\n                            <a href=\"<?php echo $this->url('dzproject/list', array('type' => 'active')) ?>\">Lister les projets actifs</a>\n                        </li>\n",
+			"EntityReposito",
+			"EntityManager",
+			"escapeHtml",
+			"href",
+			"link",
+			"heading",
+			"ModelInterface",
+			"FormInterface",
+			"DateStrTimestamp",
+			"form",
+			"addFOrm",
+			"closetag",
+			"renderFormCloseTag",
+			"var_dump",
+			"renderFOrmClo",
+			"AbstractWidget",
+			"shared",
+			"AbstractWidget",
+			"début",
+			"fin",
+			"BeginDateEmpty",
+			"projectController",
+			"shard",
+			"dzProjectDeleteWidget",
+			"DzProjectListWidget",
+			"projects",
+			"error",
+			"elementNotFound",
+			"escapeHtml",
+			"ThrowMessage",
+			"MessageTo",
+			"Message",
+			"throwMessage",
+			"Message",
+			"DisplayNameEmpty",
+			"DzBaseModule\\Message",
+			"sendMessage",
+			"getService",
+			"setService",
+			"DzBaseModule/Service",
+			"ViewModel",
+			"ProjectControllerOptionsInterface",
+			"ProjectControllerOptionsInterfaceProjectControllerOptionsInterface",
+			"ProjectControllerOptionsInterface",
+			"ModelPluginManager",
+			"MessagePluginManager",
+			"DzProjectListWidget",
+			"sendMessage",
+			"firePhp",
+			"DzBaseModule\\View\\Model\\ViewModel;",
+			"DzBaseModule\\ViewModelManager",
+			"ViewModelProviderInterface",
+			"DzProjectDeleteWidget",
+			"DzProjectAddWidget",
+			"DzProject",
+			"DzProjectAddWidget",
+			"AddViewModelFactory",
+			"Form",
+			"Project",
+			"Add",
+			"ProjectAddViewModel",
+			"EventManager",
+			"Add",
+			"routeName",
+			"PHP version 5.3.3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"->session",
+			"DzAssetModule",
+			"cdmodulepath",
+			"EndDateEmpty",
+			"ListWidget",
+			"BeginDateEmpty",
+			"DisplayNameTooLong",
+			"throwMessage",
+			"ListWidget",
+			"DzViewModule\\View\\Model\\ViewModel;",
+			"DeleteWidget",
+			"AddWidget",
+			"ListViewModelFactory",
+			"PHP version 5.3.0",
+			"ProjectServiceFactory",
+			"https://github.com/dieze/DzProjectModule",
+			"http://www.opensource.org/licenses/mit-license.html  MIT License",
+			"le listing des projets",
+			"List",
+			"le listing des projets",
+			"de listing projets",
+			"List",
+			"la suppression",
+			"Delete",
+			"la suppression",
+			"de suppression",
+			"Delete",
+			"serviceLocator",
+			"DzProjectModule\\\\View\\\\Helper\\\\Factory",
+			"SessionContainer",
+			"serviceLocator",
+			"Hydrator",
+			"ProjectMapper",
+			"DzProjectModule",
+			"canSee",
+			"DzProjectListWidget",
+			"DzProjectDeleteWidget",
+			"DzProjectAddWidget",
+			"DzProjectModule\\1",
+			"DzProjectModule",
+			"DzProjectModule\\1",
+			"DzProjectModule\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true
+}
